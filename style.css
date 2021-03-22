@@ -1,0 +1,46 @@
+h1{
+  color: black;
+  background-color: Gray;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  font-size: 26px;
+  font-family: Arial, helvetica, sans-serif;
+}
+.Address{ 
+  Font-size: 14px;
+  Font-family: Arial, Helvetica, sans-serif;
+  Color: brown;
+}
+.Geeksquadheader{
+  Text-indent: 20px;
+  line-height: 0.2;
+  color: black;
+}
+.Geeksquadbody{
+  Font-size: 14px;
+}
+.Armyhead{
+  Text-indent: 20px;
+  line-height: 0.2;
+  color: black
+}
+.Armybody{
+  Font-size: 14px;
+}
+.professional{
+  background-color: gray;
+  text-indent: 100px;
+}
+.Profile{
+  text-indent: 160px;
+  background-color: gray;
+}
+.SkillsH{
+  Text-indent: 160px;
+  background-color: gray;
+}
+.SkillsL{
+  Font-size: 14px;
+  Text-indent: 30px;
+}
